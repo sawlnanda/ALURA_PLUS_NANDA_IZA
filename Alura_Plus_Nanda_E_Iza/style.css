@@ -1,0 +1,15 @@
+/* variaveis */
+
+:root{
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-defundo: #00030C;
+}
+
+/* utitlizando as variaveis css */
+
+body{
+    background-color:var(--cor-defundo) ;
+    color: var(--branco-principal);
+}
